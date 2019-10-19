@@ -1,0 +1,14 @@
+{
+  "name": "crud-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/viniiciusmarques/crud-nodejs.git",
+  "author": "Vinicius Marques <viniciusmarquesperes@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
